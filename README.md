@@ -17,7 +17,7 @@
 - :sunglasses: My quote is **_"You can always give more"_**
 
 
-## <h1 align="center"> For More Information, Please Check Out or Connect Me Via </h1>
+## <h1 align="center">For more information, please check out or connect with me via:</h1>
 
 <p align="center">
   <a href="rodriguezahoracio@gmail.com" >
