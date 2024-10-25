@@ -16,9 +16,6 @@
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is **_"You can always give more"_**
 
-
-## <h1 align="center">For more information, please check out or connect with me via:</h1>
-
 <p align="center">
   <a href="rodriguezahoracio@gmail.com" >
     <img align="center" | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
